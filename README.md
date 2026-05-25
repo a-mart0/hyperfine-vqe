@@ -5,4 +5,4 @@ This repository is used in the paper "Studying the hyperfine interaction using t
 
 [![DOI](https://zenodo.org/badge/1043529659.svg)](https://doi.org/10.5281/zenodo.18261446)
 
-Alex Jason Martin et al 2026 Eur. J. Phys. in press https://doi.org/10.1088/1361-6404/ae4950
+A J Martin and J W Martin 2026 *Eur. J. Phys.* **47** 025404 https://doi.org/10.1088/1361-6404/ae4950
